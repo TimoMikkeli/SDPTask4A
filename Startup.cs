@@ -25,6 +25,8 @@ namespace SDPTask4A
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
 
             app.UseRouting();
 
