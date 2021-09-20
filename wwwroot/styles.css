@@ -1,6 +1,14 @@
 ﻿body {
     font-family: Arial;
 }
+h1 {
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #F08080;
+}
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
